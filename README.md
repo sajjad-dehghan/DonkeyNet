@@ -1,3 +1,35 @@
+<!-- visual-showroom:start -->
+<p align="center">
+  <img src="docs/showroom/readme-banner.svg" alt="DonkeyNet — repository cover" width="100%">
+</p>
+
+<p align="center">
+  <strong>DonkeyNet</strong><br>
+  TOOLS &amp; INTERFACES
+</p>
+
+<p align="center">
+  <a href="https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/donkeynet"><strong>Explore the showroom ↗</strong></a> ·
+  <a href="#implementation--original-documentation">Setup &amp; implementation ↓</a>
+</p>
+
+A tiny, funny Persian tray app for Windows that checks your internet every 10 seconds and tells you how it's doing in four moods, from fine to offline. It works with proxies and VPNs, updates itself and collects no data.
+
+## Visual tour
+
+[![Actual DonkeyNet notification · cropped original screenshot, text unchanged](docs/showroom/readme-view-1.svg)](https://sajjad-dehghan-personal-site.prisoner-sedwna.workers.dev/projects/donkeynet)
+
+1. Actual DonkeyNet notification · cropped original screenshot, text unchanged
+
+Real captures or owner-supplied images, not generated product mockups. Demo/local data and edition boundaries are documented below.
+
+## Implementation & original documentation
+
+The existing run instructions, architecture, limitations and credits are preserved below.
+
+---
+<!-- visual-showroom:end -->
+
 <div dir="rtl" align="center">
 
 <img src="assets/donkey-icon.png" width="150" alt="لوگوی DonkeyNet">
